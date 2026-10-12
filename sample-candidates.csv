@@ -1,0 +1,6 @@
+name,email,phone,current_role,current_company,years_experience,skills,score,grade,status,source,career_summary
+Maria Santos,maria.santos@email.com,+63 917 555 0101,Backend Engineer,PayGate,6,Node.js; PostgreSQL; AWS; TypeScript,87,A,new,LinkedIn,6 years backend with strong payments and API experience.
+Ken Adams,ken.adams@email.com,+61 400 555 222,"Senior Developer, Platform",CloudWorks,8,Go; Kubernetes; Terraform; AWS,91,A,new,Referral,Platform engineer focused on reliability and infra at scale.
+Lara Cruz,lara.cruz@email.com,+63 918 555 0202,QA Engineer,TestLab,4,Playwright; Cypress; CI/CD,,,new,Seek,Automation-focused QA who built end-to-end test suites from scratch.
+Priya Menon,priya.menon@email.com,+91 80 5555 0303,Full-stack Developer,ShopStack,5,React; Node.js; GraphQL,78,B,new,LinkedIn,Product-minded full-stack dev who has shipped customer-facing features.
+Tom Becker,tom.becker@email.com,+1 415 555 0404,Junior Developer,BrightApps,2,JavaScript; React,44,C,new,Seek,Early-career front-end developer, eager and quick to learn.
